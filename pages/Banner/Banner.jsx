@@ -2,8 +2,8 @@ import React from 'react'
 
 const Banner = () => {
   return (
-    <div className='About p-4 min-h-screen flex justify-around items-center'>
-        <div className="image-box w-[680px] h-[460px]">
+    <div className='Banner p-4 min-h-screen flex justify-around items-center'>
+        <div className="banner-box w-[680px] h-[460px]">
             
         </div>
         <div className="text-container">
