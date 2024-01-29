@@ -5,6 +5,7 @@ import Home from  "../pages/Home/Home.jsx";
 import Banner from "@/pages/Banner/Banner.jsx";
 import Shop from "@/pages/Shop/Shop.jsx";
 import Contact from "@/pages/Contact/Contact.jsx";
+import Footer from "@/pages/Footer/Footer.jsx";
 
 export default function App() {
   return (
@@ -15,6 +16,7 @@ export default function App() {
       <Banner />
       <Shop />
       <Contact />
+      <Footer />
     </main>
   );
 }
