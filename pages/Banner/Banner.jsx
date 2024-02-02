@@ -2,7 +2,7 @@ import React from 'react'
 
 const Banner = () => {
   return (
-    <div className='Banner p-4 flex justify-around items-center'>
+    <div className='Banner p-12 grid grid-cols-1 md:grid-cols-2 gap-4 justify-around items-center'>
         <div className="banner-box w-[680px] h-[460px]">
             
         </div>
