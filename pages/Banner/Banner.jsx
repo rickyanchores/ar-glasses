@@ -6,7 +6,7 @@ const Banner = () => {
         <div className="banner-box w-[680px] h-[460px]">
             
         </div>
-        <div className="text-container">
+        <div className="text-container ml-12">
             <h3 className="font-semibold">EXPERIENCE AR like never before</h3>
             <h1 className="text-4xl font-bold">XREAL Air Glasses</h1>
             <span></span>
